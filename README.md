@@ -1,4 +1,4 @@
-# Audio Signal Processing — Filtering with ThinkDSP
+# Audio Signal Processing 
 
 Hands-on exploration of audio signal processing fundamentals: waveform visualization, spectrum analysis, and frequency filtering using the [ThinkDSP](https://github.com/AllenDowney/ThinkDSP) library.
 
